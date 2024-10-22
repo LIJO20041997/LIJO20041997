@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Lijo Joseph
 - 👀 I’m interested in DATA
-- 🌱 I’m currently learning AI
-- 
+- 🌱 I’m currently learning AI, Fine-tuning, RAG
   
 
 <!---
